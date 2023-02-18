@@ -1,0 +1,22 @@
+#NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+#NetBeans metadata
+nbproject/project.properties
+nbproject/project.xml
+
+#And build files
+.classpath
+.project
+.settings/
+
+#ide files
+*.iml
+*.idea/
+target/
+
+*.log
